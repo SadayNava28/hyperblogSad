@@ -1,6 +1,8 @@
-Esta es una rueba de archivo lleno, cambio en filas
+Esta es una prueba de archivo lleno, cambio en filas
 
 Creado por saday con edad de 24 años
 Y con hambre
 
 Mañana nos enfocaremos en su vida laboral 
+
+Primera linea de prueba, solo es ejercio para los comandos
