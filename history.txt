@@ -1,10 +1,7 @@
-Esta es una prueba de archivo lleno, cambio en filas
+Esta es una rueba de archivo lleno
 
-Creado por saday con edad de 24 años
-Y con hambre
+Creado por saday
 
-Mañana nos enfocaremos en su vida laboral 
+Primera prueba 
 
-Primera linea de prueba, solo es ejercio para los comandos
-
-Cambio de historia y agreago linea
+Mañana se enofca en su vida laboral
