@@ -1,4 +1,4 @@
-Esta es una rueba de archivo lleno, cambio en filas
+Esta es una prueba de archivo lleno, cambio en filas
 
 Creado por saday con edad de 24 años
 Y con hambre
@@ -8,3 +8,8 @@ Primera prueba
 Hay mucho que contar pero hay poco tiempo para decirlo
 
 Hablaremos de la vida en este txt
+Mañana nos enfocaremos en su vida laboral 
+
+Primera linea de prueba, solo es ejercio para los comandos
+
+Cambio de historia y agreago linea
